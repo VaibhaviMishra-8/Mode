@@ -1,5 +1,5 @@
 MODE
-A project management application built with Next.js, inspired by Linear.
+A project management application built with Next.js.
 
 ## Features
 
